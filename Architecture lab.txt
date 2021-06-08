@@ -1,0 +1,19 @@
+A Multiplexer is a device that allows one of several analog or digital input signals which are to be
+selected and transmits the input that is selected into a single medium. Multiplexer is also known as Data
+Selector.
+
+4 to 1 Multiplexer:
+
+A 4-to-1 multiplexer consists four data input lines as D0 to D3, two select lines as S0 and S1 and a single
+output line Y. The select lines S1 and S2 select one of the four input lines to connect the output line. The
+particular input combination on select lines selects one of input (D0 through D3) to the output.
+
+
+
+
+8 to 1 Multiplexer:
+
+A 8-to-1 multiplexer consists eight data input lines as D0 to D7, three select lines as S0, S1 and S2 and a
+single output line Y. The select lines S0, S1 and S2 select one of the eight input lines to connect the
+output line. The particular input combination on select lines selects one of input (D0 through D7) to the
+output.
